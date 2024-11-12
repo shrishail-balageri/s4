@@ -1,0 +1,17 @@
+BEGIN
+
+  # Step 1: Input two numbers
+  PROMPT the user to input the first number
+  STORE the input in variable num1
+  
+  PROMPT the user to input the second number
+  STORE the input in variable num2
+
+  # Step 2: Add the two numbers
+  COMPUTE the sum of num1 and num2
+  STORE the result in variable sum
+
+  # Step 3: Output the result
+  DISPLAY the value of sum
+
+END
